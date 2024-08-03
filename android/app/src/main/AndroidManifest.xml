@@ -7,7 +7,7 @@
     <uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
 
     <application
-        android:label="aristotle"
+        android:label="Echoes"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
 
